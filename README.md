@@ -2,7 +2,7 @@
 
 
 
-Este repositorio contiene el proyecto final del curso \*\*Inteligencia Artificial (1INF24)\*\* de la Pontificia Universidad Católica del Perú (PUCP). El estudio compara tres algoritmos de aprendizaje automático supervisado para clasificar los 1 834 distritos del Perú según su nivel de daño por huaicos (Bajo, Medio y Alto) en el periodo 2015-2020, a partir de su historial de emergencias 2003-2014, su región natural y su altitud.
+Este repositorio contiene el proyecto final del curso **Inteligencia Artificial (1INF24)** de la Pontificia Universidad Católica del Perú (PUCP). El estudio compara tres algoritmos de aprendizaje automático supervisado para clasificar los 1 834 distritos del Perú según su nivel de daño por huaicos (Bajo, Medio y Alto) en el periodo 2015-2020, a partir de su historial de emergencias 2003-2014, su región natural y su altitud.
 
 
 
