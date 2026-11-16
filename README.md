@@ -66,11 +66,11 @@ El análisis de ablación mostró que **quitar la geografía reduce drásticamen
 
 proyecto/
 
-&#x20;   Grupo1-TA-Notebook.ipynb
+   Grupo1-TA-Notebook.ipynb
 
-&#x20;   dataset\_distritos\_v3.csv
+   dataset\_distritos\_v3.csv
 
-&#x20;   Grupo1-TA-Final.pdf
+   Grupo1-TA-Final.pdf
 
 
 
